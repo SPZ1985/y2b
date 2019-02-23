@@ -1,0 +1,17 @@
+{
+  "name": "y2b",
+  "version": "1.0.0",
+  "description": "y2b app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.6.1",
+    "express": "*",
+    "mongoose": "*"
+  },
+  "author": "sabin zachariya",
+  "license": "ISC"
+}
